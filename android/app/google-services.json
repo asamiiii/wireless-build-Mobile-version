@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "419559532657",
+    "project_id": "wireless-build-tool",
+    "storage_bucket": "wireless-build-tool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419559532657:android:e68c1d21a6e47de3b213d0",
+        "android_client_info": {
+          "package_name": "com.example.wireless_build"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419559532657-6st3ngbf1jod0ssgd8gcuslfk8q5veu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwYmTpyDeQSUHUB2RrH7INUm_wcaGxHVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419559532657-6st3ngbf1jod0ssgd8gcuslfk8q5veu9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419559532657-gm9m3hqb4suo7boo26qsgpci1lmleqvo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wirelessBuild"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
